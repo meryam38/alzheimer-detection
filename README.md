@@ -1,5 +1,8 @@
 # **🧠 Multi-Task and Multi-Modal Learning for Early Detection of Alzheimer’s Disease**
 
+![Alzheimer Detection](https://www.tuul.ai/content/images/size/w1000/2024/01/shreyasgite_AI_speech_waveform_and_old_woman_176e3f0e-d01a-469f-8695-a23c3761935c-2.png)
+
+
 ## **Overview**  
 This repository contains the resources, code, and datasets used for the research article *"Multi-Task and Multi-Modal Learning for Early Detection of Alzheimer’s Disease Using Transfer Learning."* The study explores an innovative approach to Alzheimer’s Disease (AD) detection by integrating features from MRI 🧲 imaging and speech 🎙️ data using state-of-the-art machine learning techniques.
 
