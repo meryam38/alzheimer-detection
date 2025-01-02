@@ -13,22 +13,6 @@ This repository contains the resources, code, and datasets used for the research
 - **Robust Evaluation**: Includes accuracy, precision, recall, F1-score, and confusion matrices.  
 
 ---
-
-## **Usage Instructions**
-
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/username/alzheimer-detection.git
-cd alzheimer-detection
-2. Install Dependencies
-bash
-Copy code
-pip install -r requirements.txt
-3. Run Notebooks
-Navigate to the notebooks/ folder and run the Jupyter notebooks:
-mri_classification.ipynb for MRI-based classification.
-speech_feature_extraction.ipynb for speech data processing.
-fusion_model_training.ipynb for training the fusion model.
 Datasets
 MRI Data: Augmented Alzheimer MRI Dataset V2
 Speech Data: ADReS Challenge dataset (details provided in the article).
