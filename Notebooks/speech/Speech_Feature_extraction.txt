@@ -1,0 +1,6 @@
+Due to the large file size limitations on GitHub, some files could not be uploaded directly to this repository.
+
+To visualize and access the "Speech_Feature_extraction.ipynb" notebook, please visit the following Colab link:
+👉 [Speech Feature Extraction Notebook](https://colab.research.google.com/drive/1vPgnjIbrQn7DojNPLJOqFCUgrxhR3hj8#scrollTo=NJ__i65Del86)
+
+Thank you for your understanding.
